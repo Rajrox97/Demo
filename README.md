@@ -29,3 +29,10 @@
   - Attaching pictures with your goals.(Don't know , backend, frontend or both)
   - Prioritising your goals button.(Don't know , backend, frontend or both)
   - Using different colors for different priority of goals.(Don't know , backend, frontend or both)
+
+
+<h1>New to this? Maybe this can help.</h1>
+  
+   - Getting the hang of the code.
+   - If you are new, break things down and try and edit & undertsand copy pasted code.
+    

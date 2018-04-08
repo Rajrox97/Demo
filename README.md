@@ -9,22 +9,23 @@
   <h1>Key Features</h1>
   
   
-  <h4>Probable Front-End-Work</h4?
+  <h4>Probable Front-End-Work</h4>
   
    - Home Page/Landing page setup . 
    - Activating and linking the different sites from the home page. 
    - Linking the different additional pages to the homepage.
-   - Adding more tabs in the additional Navigation Bar 
-  
+   - Adding more tabs in the additional Navigation Bar .
+   - Making the layout of different additional pages of the home page.
+   - Beautifying the <user_home_page> [Refer to pg:3 of the pdf](After some one has logged in) after backend work provides a basic              structure.
+   - Beautifying pages in best possible ways and all visual appearence.
+   - Designing the alarm feature before with each popup.(Dont know??backend or front end or both)
+   - Upcoming goal deadlines and important goals feed.
+   
   <h4>Probable Back End Work</h4>
   
-  - Designing a Contact me Form and layout in the landing(home) page.
-  - Designing a login page with your google account.
+  - Getting the Contact me Form in the landing(home) page to actually be able to contact someone.
+  - Getting the login with google to actually work.
   - Designing a sync Feature with your Gmail account .So that this app can be across all devices.
-  - Designing the alarm feature before with each popup. 
-  - Past goals Feed and Future goals feed.
-  
-  - Attaching pictures with your goals.
-  - When you login to your account, see your present goals, future goals and goals you have achieved.
-  - Prioritising your goals.
-  - Using different colors for different priority of goals.
+  - Attaching pictures with your goals.(Don't know , backend, frontend or both)
+  - Prioritising your goals button.(Don't know , backend, frontend or both)
+  - Using different colors for different priority of goals.(Don't know , backend, frontend or both)

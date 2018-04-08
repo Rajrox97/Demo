@@ -34,5 +34,5 @@
 <h1>New to this? Maybe this can help.</h1>
   
    - <a href="https://gist.github.com/Rajrox97/02e3b2e3c6ef8a356106b65ad02e183a">Getting the hang of the code.</a>
-   - If you are new, break things down and try and edit & undertsand copy pasted code.
+   - <a href="https://gist.github.com/Rajrox97/b028a7eff0ea0c0225b7d19b54a2adf6">If you are new, break things down and try and edit & undertsand copy pasted code.</a>
     

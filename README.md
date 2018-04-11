@@ -50,7 +50,7 @@ Other modifications are open-ended and suggestions are needed for improving UI/U
      Create Goal - This tool will finally create the goal and the page would be updated.
      
  Only the first page would include a Contact Us attachment which can be accessed by clicking on it as shown in the mockup pdf.
-
+ 
 <h1>New to this? Maybe this can help.</h1> 
   
    - <a href="https://gist.github.com/Rajrox97/02e3b2e3c6ef8a356106b65ad02e183a">Getting the hang of the code.</a>
